@@ -1,0 +1,110 @@
+header{
+    background-image: url("images/Header.png");
+    color: blue;
+    background-color:#78A36A;
+    padding: 0cm;
+}
+
+header p{
+    font-size: 5pc;
+    color: white;
+    font-family: 'Sacramento';
+}
+ 
+button{
+    background-color: #719C69; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    border-radius: 12px;
+    margin:35px;
+    margin-top: 2px;
+    font-family: 'Sail';
+   
+  }
+
+  a{
+      color: white;
+      font-family: cursive;
+      font-size: 15px;
+  }
+  .marthe{
+      background-image: url("images/bg.jpg");
+      width: 150px;
+      height: 80px;
+  }
+  section{
+    background-image: url("images/bg.jpg");
+  }
+
+  .welicome{
+      font-family: 'Righteous';
+      font-size: 50px;
+      color: white;
+  }
+  .abt{
+      font-family: 'Sail';
+      font-size: 50px;
+      text-align: center;
+  }
+  u{
+      margin-top: 2px;
+      color:#AC0F0F;
+  }
+  .umwandiko{
+      font-family: 'Sail';
+      font-size: 40px;
+  }
+  table img{
+      width: 500px;
+      height: 300px;
+  }
+  section{
+    align-items: center;
+    margin: 90px;
+  }
+  .down{
+    background-color: #3AC218; /* Green */
+    border: 1px;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    margin:35px;
+    margin-top: 2px;
+    font-family: 'Ruluko';
+     }
+
+    .abc img{
+        width: 100px;
+        height: 100px;
+    }
+
+    .abc .hear{
+        font-family: 'Sail';
+        color: white;
+        font-size: 30px;
+    }
+
+    .abc{
+        
+        text-align: center;
+        margin-left: 4cm;
+        margin-bottom: -1cm;
+        
+    }
+
+    .abc .para{
+        font-family: 'Sail';
+        font-size: 20px;
+        color: white;
+    }
+    .abc td{
+        padding: 1cm;
+    }
